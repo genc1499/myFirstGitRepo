@@ -11,3 +11,7 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 h1{
     background-color: papayawhip;
 }
+
+p{
+    font-size:30px;
+}
